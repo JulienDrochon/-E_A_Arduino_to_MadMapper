@@ -17,10 +17,10 @@ Sending data from arduino Board to MadMapper (or Processing, Max Msp, PureData, 
 3. Launch <a href="https://github.com/JulienDrochon/00_Github_Utilities/tree/master/00_02_Arduino_to_OSC_Utility">Arduino OSC Utility</a>
 4. In Arduino OSC utility, choose the serial port of the Arduino
 5. In the Arduino OSC utility, load your previous settings (if they exist, file type *. mmosc) with the Load Settings button)
-6. In Arduino OSC utility, make the different settings
+6. In Arduino OSC utility, change settings as you will
 7. Enjoy!
 _____________
 To run Arduino OSC utility:
 <img src="https://raw.githubusercontent.com/JulienDrochon/-E_A_Arduino_to_MadMapper/master/osx_gatekeeper.png" />
-MAC OSX
-Windows: Installing JAVA
+<br>MAC OSX
+<br>Windows: Installing JAVA
