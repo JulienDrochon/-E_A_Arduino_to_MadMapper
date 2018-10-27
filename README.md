@@ -1,4 +1,4 @@
-# E_A_Arduino_to_MadMapper
+# -E_A_Arduino_to_MadMapper
 
 Sending data from arduino Board to MadMapper (or Processing, Max Msp, PureData, …) via OSC.
 
