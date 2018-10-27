@@ -23,7 +23,8 @@ _____________
 To run Arduino OSC utility on MacOSX :
 <img src="https://raw.githubusercontent.com/JulienDrochon/-E_A_Arduino_to_MadMapper/master/osx_gatekeeper.png" />
 
-
+<div>
 <br>MAC OSX
 <br>Windows: Installing JAVA
 <br>Not tested on Linux OS
+</div>
