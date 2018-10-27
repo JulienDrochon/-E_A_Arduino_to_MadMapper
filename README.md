@@ -21,7 +21,7 @@ Sending data from arduino Board to MadMapper (or Processing, Max Msp, PureData, 
 7. Enjoy!
 _____________
 To run Arduino OSC utility on MacOSX :
-<img src="https://raw.githubusercontent.com/JulienDrochon/-E_A_Arduino_to_MadMapper/master/osx_gatekeeper.png" />
+<img src="https://raw.githubusercontent.com/JulienDrochon/-E_A_Arduino_to_MadMapper/master/osx_gatekeeper.png" style="display:block;" />
 
 <div>
 <br>MAC OSX
