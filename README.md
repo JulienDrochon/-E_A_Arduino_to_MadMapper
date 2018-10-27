@@ -20,7 +20,10 @@ Sending data from arduino Board to MadMapper (or Processing, Max Msp, PureData, 
 6. In Arduino OSC utility, change settings as you will
 7. Enjoy!
 _____________
-To run Arduino OSC utility:
+To run Arduino OSC utility on MacOSX :
 <img src="https://raw.githubusercontent.com/JulienDrochon/-E_A_Arduino_to_MadMapper/master/osx_gatekeeper.png" />
+
+
 <br>MAC OSX
 <br>Windows: Installing JAVA
+<br>Not tested on Linux OS
