@@ -1,2 +1,6 @@
-# 00_Github_Utilities
-Several software utilities for simplifyinf communication between Arduino (Serial port), Web Browser (Websockets) and Multimedia Softwares using OSC (Unity 3D, MAx MSP, Processing, Madmapper, …)
+# E_A_Arduino_to_MadMapper
+
+Sending data from arduino Board to MadMapper (or Processing, Max Msp, PureData, …) via OSC.
+
+# Operative Principle
+<img height="400px" src="https://raw.githubusercontent.com/JulienDrochon/E_A_Arduino_to_MadMapper/master/screenshot.png"/>
